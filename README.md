@@ -18,10 +18,13 @@ The goal is to make Bayesian reasoning visually and experimentally intuitive.
 ---
 
 ## Repository
-.
+
 ├── jelly_simulation.py # Monte Carlo sampler
+
 └── poster/
+
 ├── poster.pdf # MCS academic poster
+
 └── summary.md # Extended explanation
 
 
