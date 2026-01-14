@@ -1,4 +1,4 @@
-# Bayesian Likelihood vs Posterior (Toy Monte Carlo Study)
+# Bayesian Likelihood vs Posterior
 
 This repository contains a small Monte Carlo simulation and an academic poster illustrating the difference between **likelihood** and **posterior** in Bayesian inference.
 
